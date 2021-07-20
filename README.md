@@ -7,7 +7,7 @@
 
 ## About
 
-This applications is an personal finance manager.
+# <kbd>This applications is an personal finance manager. </kbd>
 
 ## Screenshots
 
